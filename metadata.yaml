@@ -1,0 +1,30 @@
+_repo: Some-of-Our-East-Coast-Towns_53890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ritchie, J. Ewing (James Ewing)
+    alias: Ritchie, James Ewing
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '34770'
+    url: http://www.gutenberg.org/2009/agents/34770
+description: ''
+gutenberg_issued: '2017-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Anglia (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+tableOfContents: 'One of our young boroughs (Chelmsford) -- In an ancient city (Colchester)
+  -- A quiet Suffolk town (Hadleigh) -- A grand mediæval town (Bury St. Edmunds) --
+  Ipswich: the pride of the Orwell -- Living Norwich -- A day at Lynn -- Framlingham
+  and its Castle -- Sudbury -- International Haverhill -- the Oldest Essex Borough
+  (Maldon).'
+title: Some of Our East Coast Towns
+url: http://www.gutenberg.org/ebooks/53890
